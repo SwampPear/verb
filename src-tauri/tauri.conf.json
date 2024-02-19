@@ -36,7 +36,8 @@
         "title": "verb",
         "width": 800,
         "height": 600,
-        "decorations": false
+        "decorations": false,
+        "transparent": true
       }
     ],
     "security": {
@@ -53,6 +54,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ]
-    }
+    },
+    "macOSPrivateApi": true
   }
 }
